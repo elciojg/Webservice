@@ -1,0 +1,5 @@
+&ProtocoloType.nuProtocoloEntrada = '18044312955000019761'
+&ProtocoloType.dtRecebimento      = '11-04-2018 10:20:09'
+&ProtocoloExclusaoType = &HorusWSService.excluirRegistros(&ProtocoloType)
+no executar  tenho esse problema 
+javax.servlet.ServletException: java.lang.RuntimeException: The element type "HR" must be terminated by the matching end-tag "</HR>".(-5)
